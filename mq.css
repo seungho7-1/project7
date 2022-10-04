@@ -1,0 +1,15 @@
+.container{
+    width: 500px;
+    border: 200px;
+    margin: 50px auto;
+    border:1px solid brown;
+    border-radius: 25px;
+    background-color: rgb(199, 194, 194);  
+    text-align: center;
+}
+div{
+    margin: 10px;
+}
+
+
+li{display:inline;}
